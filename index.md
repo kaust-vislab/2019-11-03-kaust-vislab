@@ -44,15 +44,13 @@ This block includes the Eventbrite registration widget if
 are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
-{% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src=" https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2019"
   frameborder="0"
   width="100%"
   height="280px"
   scrolling="auto">
 </iframe>
-{% endif %}
 
 
 <h2 id="general">General Information</h2>
@@ -116,6 +114,10 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+
+<p id="registration">
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2019 ">Register Now!</a>
+</p>
 
 {% comment %}
 SPECIAL REQUIREMENTS
