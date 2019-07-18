@@ -14,7 +14,6 @@ instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["david.pugh@kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2019-09-01-introduction-to-python-for-data-science
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -35,23 +34,6 @@ You specified <code>carpentry: {{page.carpentry}}</code> in <code>index.md</code
 see the changes take effect locally.
 </div>
 {% endif %}
-
-{% comment %}
-EVENTBRITE
-
-This block includes the Eventbrite registration widget if
-'eventbrite' has been set in the header.  You can delete it if you
-are not using Eventbrite, or leave it in, since it will not be
-displayed if the 'eventbrite' field in the header is not set.
-{% endcomment %}
-<iframe
-  src=" https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2019"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
-
 
 <h2 id="general">General Information</h2>
 
