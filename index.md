@@ -6,10 +6,10 @@ address: "Auditorium 0215 (between buildings 2 and 3)"
 country: "sa"
 language: "en"
 latlng: "22.307807, 39.105358"
-humandate: "1 September 2019"
+humandate: "24 November 2019"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2019-01-01      
-enddate: 2019-01-01        
+startdate: 2019-11-24      
+enddate: 2019-11-24        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
@@ -98,7 +98,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2019 ">Register Now!</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2019_redux">Register Now!</a>
 </p>
 
 {% comment %}
