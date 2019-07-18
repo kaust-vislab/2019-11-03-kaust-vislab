@@ -12,7 +12,7 @@ startdate: 2019-01-01
 enddate: 2019-01-01        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
-email: ["david.pugh@kaust.edu.sa"]
+email: ["help@vis.kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2019-09-01-introduction-to-python-for-data-science
 ---
 
