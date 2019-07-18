@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"      
-venue: "King Abdullah University of Science and Technology (KAUST)" 
+venue: "KAUST Visualization Lab" 
 address: "Auditorium 0215 (between buildings 2 and 3)"
 country: "sa"
 language: "en"
