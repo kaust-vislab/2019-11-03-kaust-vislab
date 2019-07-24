@@ -6,14 +6,14 @@ address: "Auditorium 0215 (between buildings 2 and 3)"
 country: "sa"
 language: "en"
 latlng: "22.307807, 39.105358"
-humandate: "24 November 2019"
+humandate: "03 November 2019"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2019-11-24      
-enddate: 2019-11-24        
+startdate: 2019-11-03      
+enddate: 2019-11-03        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2019-09-01-introduction-to-python-for-data-science
+collaborative_notes: https://pad.carpentries.org/2019-11-03-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
